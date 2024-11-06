@@ -1,0 +1,73 @@
+.link{ color:dark;
+    
+}
+.linkactive{
+    color:green;
+}
+
+.linkvisited {
+    color:yellow;
+}
+
+.link:hover {
+    color:yellow ;
+}
+
+.list_item {
+    color:green;
+    list-style-type: none;
+    font-size:18px;
+}
+
+/* .list_item:first-child {
+    color:green;
+}
+
+.list_item:last-child {
+    color:blue;
+}
+
+.list_item:nth-child(odd) {
+color:blue;
+}
+
+.list_item:nth-child(even) {
+
+color:blueviolet;
+}
+
+.list_item:nth-child(2) {
+
+    color:darkblue;
+    } */
+
+    
+/* 
+.list_item::first-letter {
+    color:blue;
+    font-size:44px;
+}
+    
+
+p::first-letter{
+    color:green;
+    font-size:30px;
+}
+
+.text::first-line{
+    color:red;
+    font-size:30px;
+} */
+
+/* .text::after{
+    content:"Merhaba ben sona eklendim";
+    color:blue;
+    font-size:24px;
+}
+
+.text::before{
+    content:"Merhaba ben başa eklendim";
+    color:blue;
+    font-size:24px;
+} */
+ 
